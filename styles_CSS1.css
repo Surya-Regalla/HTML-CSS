@@ -12,14 +12,15 @@ h1
     padding: 70px 0 0;
     font-family: 'Sacramento', cursive;
     color: #66BFBF;
-    font-size: 462.5%;
+    /*
+    font-size: 462.5%; */
 }
 
 h2 
 {
     color: #66BFBF;
-    margin-top: 0;
-    font-size: 160%;
+    margin-top: 0; /*
+    font-size: 160%; */
     font-family: 'Montserrat', sans-serif;
 }
 
